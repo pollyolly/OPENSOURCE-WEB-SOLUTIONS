@@ -13,6 +13,7 @@
 ## Frappe - ERP Next (ERP Complete solution)
 
 [Frappe](https://github.com/frappe)
+
 [ERP Next](https://erpnext.com/)
 
 ## Drupal - Marketing Automation
@@ -26,8 +27,15 @@
 ## LMS
 
 [Moodle](https://download.moodle.org/)
+
 [Canvas](https://github.com/instructure/canvas-lms)
 
 ## Laravel - Asset Management
 
 [SnipeIt](https://snipeitapp.com/)
+
+## Tools
+
+[Grantt Chart](https://frappe.io/gantt)
+
+[SVG Chart](https://frappe.io/charts)
