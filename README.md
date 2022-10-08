@@ -16,9 +16,11 @@
 
 [ERP Next](https://erpnext.com/)
 
-## Drupal - Marketing Automation
+## Marketing Automation
 
-[Mautic](https://www.mautic.org/)
+Drupal - [Mautic](https://www.mautic.org/)
+
+PHP - [PHPLIST](https://www.phplist.org/)
 
 ## OSTicket - Helpdesk Desk
 
@@ -33,6 +35,20 @@
 ## Laravel - Asset Management
 
 [SnipeIt](https://snipeitapp.com/)
+
+## Publishing Tools
+
+[SKOSMOS](https://skosmos.org/)
+
+[BOOKSTACKAPP](https://www.bookstackapp.com/)
+
+[PRESSBOOKS](https://pressbooks.com/)
+
+## Conferencing
+
+[Getindico](https://getindico.io/)
+
+[Zookeepr](http://zookeepr.org/)
 
 ## Tools
 
