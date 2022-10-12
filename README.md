@@ -55,3 +55,7 @@ PHP - [PHPLIST](https://www.phplist.org/)
 [Grantt Chart](https://frappe.io/gantt)
 
 [SVG Chart](https://frappe.io/charts)
+
+## JQuery Calendars and Schedulers
+
+[Top 5 Best JQuery Calendars and Schedulers](https://ourcodeworld.com/articles/read/55/top-5-best-jquery-scheduler-and-events-calendar-for-web-applications)
