@@ -69,3 +69,7 @@ PHP - [PHPLIST](https://www.phplist.org/)
 ## Remote Desktop
 
 [RustDesk](https://github.com/rustdesk)
+
+## Selfhosted Google Form, AirTable alternative
+
+[BaseRow](https://baserow.io/)
