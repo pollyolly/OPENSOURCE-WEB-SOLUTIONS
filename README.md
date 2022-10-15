@@ -73,3 +73,9 @@ PHP - [PHPLIST](https://www.phplist.org/)
 ## Selfhosted Google Form, AirTable alternative
 
 [BaseRow](https://baserow.io/)
+
+## OpenSource Reference
+
+[OpenSourceAwesome](https://shownotes.opensourceisawesome.com/)
+
+[AwesomeOpenSource](https://www.youtube.com/c/AwesomeOpenSource)
