@@ -59,3 +59,13 @@ PHP - [PHPLIST](https://www.phplist.org/)
 ## JQuery Calendars and Schedulers
 
 [Top 5 Best JQuery Calendars and Schedulers](https://ourcodeworld.com/articles/read/55/top-5-best-jquery-scheduler-and-events-calendar-for-web-applications)
+
+## GAMES
+
+[SuperPowers HTML5](https://superpowers-html5.com/index.en.html)
+
+[Phaser IO](https://phaser.io/)
+
+## Remote Desktop
+
+[RustDesk](https://github.com/rustdesk)
