@@ -44,11 +44,13 @@ PHP - [PHPLIST](https://www.phplist.org/)
 
 [PRESSBOOKS](https://pressbooks.com/)
 
-## Conferencing
+## Video and Paper Submission Conferencing
 
 [Getindico](https://getindico.io/)
 
 [Zookeepr](http://zookeepr.org/)
+
+[Jitsii](https://jitsi.org/projects/)
 
 ## Tools
 
