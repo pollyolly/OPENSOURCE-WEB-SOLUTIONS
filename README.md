@@ -52,6 +52,9 @@ PHP - [PHPLIST](https://www.phplist.org/)
 
 [Jitsii](https://jitsi.org/projects/)
 
+## FORUM
+[Kunena](https://www.kunena.org/)
+
 ## Tools
 
 [Grantt Chart](https://frappe.io/gantt)
