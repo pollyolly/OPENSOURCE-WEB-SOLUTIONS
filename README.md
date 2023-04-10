@@ -40,6 +40,8 @@ PHP - [PHPLIST](https://www.phplist.org/)
 
 [Mayan EDMS](https://www.mayan-edms.com/)
 
+[NextCloud](https://nextcloud.com/)
+
 ## Open Data System
 [DKAN](https://getdkan.org/)
 
