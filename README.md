@@ -28,6 +28,18 @@ PHP - [PHPLIST](https://www.phplist.org/)
 
 [OSTicket](https://osticket.com/)
 
+## MultiSite
+
+[OpenScholar](https://osprojectsite.org/software/openscholar-drupal-7)
+
+[Typo3](https://typo3.org/)
+
+## Document System
+
+[OpenDocman](https://www.opendocman.com/)
+
+[Mayan EDMS](https://www.mayan-edms.com/)
+
 ## LMS
 
 [Moodle](https://download.moodle.org/)
