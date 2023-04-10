@@ -40,6 +40,9 @@ PHP - [PHPLIST](https://www.phplist.org/)
 
 [Mayan EDMS](https://www.mayan-edms.com/)
 
+## Open Data System
+[DKAN](https://getdkan.org/)
+
 ## LMS
 
 [Moodle](https://download.moodle.org/)
