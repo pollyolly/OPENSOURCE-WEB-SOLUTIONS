@@ -10,6 +10,8 @@
 
 [MedusaJs](https://github.com/medusajs)
 
+[Hydrogen](https://github.com/Shopify/hydrogen)
+
 ## Frappe - ERP Next (ERP Complete solution)
 
 [Frappe](https://github.com/frappe)
