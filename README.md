@@ -1,6 +1,6 @@
 ## Web Framework - Rapid Development
 
-[rappe](https://frappe.io/)
+[Frappe](https://frappe.io/)
 
 [Django](https://www.djangoproject.com/)
 
