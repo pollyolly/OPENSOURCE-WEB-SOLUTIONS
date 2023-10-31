@@ -90,6 +90,8 @@ PHP - [PHPLIST](https://www.phplist.org/)
 
 [Phaser IO](https://phaser.io/)
 
+[GDevelop](https://gdevelop.io/)
+
 ## Remote Desktop
 
 [RustDesk](https://github.com/rustdesk)
