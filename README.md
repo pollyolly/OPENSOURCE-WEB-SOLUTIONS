@@ -59,7 +59,7 @@ PHP - [PHPLIST](https://www.phplist.org/)
 
 ## Laravel - CRM
 
-[Kryayin](https://krayincrm.com/)
+[Krayin](https://krayincrm.com/)
 
 ## Publishing Tools
 
