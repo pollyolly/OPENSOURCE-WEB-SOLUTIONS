@@ -57,6 +57,10 @@ PHP - [PHPLIST](https://www.phplist.org/)
 
 [SnipeIt](https://snipeitapp.com/)
 
+## Laravel - CRM
+
+[Kryayin](https://krayincrm.com/)
+
 ## Publishing Tools
 
 [SKOSMOS](https://skosmos.org/)
